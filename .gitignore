@@ -1,4 +1,6 @@
+1
 vendor/*
 */logs/*
 */cache/*
+composer.lock
 composer.phar
